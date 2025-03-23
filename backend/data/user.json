@@ -1,0 +1,15 @@
+[
+    {
+        "_id": {
+            "$oid": "653f54be13d7ab2243a410f2"
+        },
+        "username": "username",
+        "password": "$2b$10$tqcUpbWNSh7H8hR.62VZ3O3DJO99uUqlAZogkBGptgk5bKXsFhjAW",
+        "roles": [
+            "Admin"
+        ],
+        "active": true,
+        "__v": 2,
+        "displayname": "Admin Aiden"
+    }
+]
